@@ -14,7 +14,7 @@ It demonstrates various animation techniques such as transitions, keyframes, hov
 ![Preview 3](link-to-your-preview-3)  
 
 ## 🔗 Live Demo
-👉 [Click here to view the demo](your-demo-link)  
+👉 [Click here to view the demo](https://pegahmobasheri.github.io/css-animations-project/)  
 
 
 ## 💡 Purpose
