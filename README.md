@@ -9,7 +9,8 @@ It demonstrates various animation techniques such as transitions, keyframes, hov
 - Creative **slider** made only with CSS  
 
 ## 👀 Previews
-![Preview 1](https://github.com/user-attachments/assets/dbd5b778-87f3-4264-bad3-48489ca42c15)  
+![Preview 1](https://github.com/user-attachments/assets/dbd5b778-87f3-4264-bad3-48489ca42c15)
+
 ![Preview 2](https://github.com/user-attachments/assets/88cb84e5-daf4-4d3c-9f87-0985bc0336b9)   
 
 ## 🔗 Live Demo
