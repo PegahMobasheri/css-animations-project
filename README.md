@@ -10,8 +10,7 @@ It demonstrates various animation techniques such as transitions, keyframes, hov
 
 ## 👀 Previews
 ![Preview 1](https://github.com/user-attachments/assets/dbd5b778-87f3-4264-bad3-48489ca42c15)  
-![Preview 2](link-to-your-preview-2)  
-![Preview 3](link-to-your-preview-3)  
+![Preview 2](https://github.com/user-attachments/assets/88cb84e5-daf4-4d3c-9f87-0985bc0336b9)   
 
 ## 🔗 Live Demo
 👉 [Click here to view the demo](https://pegahmobasheri.github.io/css-animations-project/)  
